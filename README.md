@@ -1,6 +1,27 @@
 # 💫 Hello World! I'm Eyob Begashaw Ayele
 ### 🌟 Welcome to my GitHub profile! I'm a passionate 3rd-year Computer Science student with a keen interest in software development and emerging technologies. I love building projects that solve real-world problems and continuously expanding my skill set.
+---
+<div align="center">
 
+<!-- Rectangle Container -->
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.2); margin: 20px 0; position: relative;">
+
+  <!-- Circular Photo -->
+  <img src="https://via.placeholder.com/150/667eea/ffffff?text=Your+Photo" 
+       alt="Profile Photo" 
+       style="width: 150px; height: 150px; border-radius: 50%; border: 5px solid white; box-shadow: 0 5px 15px rgba(0,0,0,0.3); position: absolute; top: 20px; right: 30px;">
+
+  <!-- Welcome Text -->
+  <div style="margin-right: 200px; text-align: left; color: white;">
+    <h2 style="margin: 0 0 15px 0; font-size: 24px;">Welcome to my GitHub profile!</h2>
+    <p style="margin: 0; font-size: 16px; line-height: 1.6;">
+      I'm a passionate 3rd-year Computer Science student with a keen interest in software development and emerging technologies. I love building projects that solve real-world problems and continuously expanding my skill set.
+    </p>
+  </div>
+
+</div>
+
+</div>
 <div align="center">
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=6a5acd&center=true&vCenter=true&width=600&lines=Welcome+to+my+github+profile!;I'm+3rd+Year+CS+Student+%7C;Python+%7C+C%2B%2B+%7C+Java+%7C+JavaScript;Building+the+future+one+commit+at+a+time)
@@ -73,19 +94,19 @@
 <div align="center">
 
 <!-- GitHub Stats with Custom Style -->
-<a href="https://github.com/yourusername">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=00FF00&bg_color=0D1117&title_color=00FF00&icon_color=00FF00"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&border_color=00FF00&bg_color=0D1117&title_color=00FF00&langs_count=8"/>
+<a href="https://github.com/eyobbegashaw">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eyobbegashaw&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=00FF00&bg_color=0D1117&title_color=00FF00&icon_color=00FF00"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyobbegashaw&layout=compact&theme=radical&border_color=00FF00&bg_color=0D1117&title_color=00FF00&langs_count=8"/>
 </a>
 
 <!-- GitHub Streak Stats -->
-<a href="https://github.com/yourusername">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&border=00FF00&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00"/>
+<a href="https://github.com/eyobbegashaw">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=eyobbegashaw&theme=radical&border=00FF00&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00"/>
 </a>
 
 <!-- Activity Graph -->
-<a href="https://github.com/yourusername">
-  <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true" width="100%"/>
+<a href="https://github.com/eyobbegashaw">
+  <img src="https://activity-graph.herokuapp.com/graph?username=eyobbegashaw&theme=react-dark&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&hide_border=true" width="100%"/>
 </a>
 
 </div>
@@ -110,9 +131,9 @@ C++          1 hr 30 mins    ██░░░░░░░░░░░░░░░
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#00FF00)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eyob-begashaw/))
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eyobbegashaw)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@domain.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eyobbegashaw075@gmail.com)
 
 </div>
 

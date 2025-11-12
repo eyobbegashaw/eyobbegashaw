@@ -6,11 +6,7 @@
 <!-- Rectangle Container -->
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.2); margin: 20px 0; position: relative;">
 
-  <!-- Circular Photo -->
-  <img src="https://via.placeholder.com/150/667eea/ffffff?text=Your+Photo" 
-       alt="Profile Photo" 
-       style="width: 150px; height: 150px; border-radius: 50%; border: 5px solid white; box-shadow: 0 5px 15px rgba(0,0,0,0.3); position: absolute; top: 20px; right: 30px;">
-
+   
   <!-- Welcome Text -->
   <div style="margin-right: 200px; text-align: left; color: white;">
     <h2 style="margin: 0 0 15px 0; font-size: 24px;">Welcome to my GitHub profile!</h2>

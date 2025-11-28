@@ -1,166 +1,119 @@
-# 🌌 **Hey there! I'm Eyob Begashaw Ayele**
-
-### 🚀 *Turning ideas into reality — one commit at a time.*
-
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=28\&duration=3500\&pause=1000\&color=8A2BE2\&center=true\&vCenter=true\&width=700\&lines=Welcome+to+my+GitHub+Universe!;3rd+Year+CS+Student+at+DBU;Full+Stack+Developer+in+Progress;Tech+Enthusiast+%7C+Problem+Solver+%7C+Dream+Builder)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Eyob%20Begashaw&fontSize=50&fontAlign=50&fontAlignY=40&animation=fadeIn)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Computer+Science+Student;Open+Source+Enthusiast;Problem+Solver" alt="Typing Animation" />
 
 </div>
 
 ---
 
-## 🌠 **Who Am I?**
+<div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap;">
 
-I’m a **3rd Year Computer Science Student at Debre Berhan University**, passionate about designing, building, and optimizing digital experiences.
-I code to **create impact**, explore new tech, and solve everyday problems through innovation.
+<div style="flex:1; min-width:300px; padding-right:20px;">
+### 🌟 About Me
+Enthusiastic **Computer Science student** and **Full-Stack Developer** from Ethiopia,  
+dedicated to building clean, scalable, and creative digital solutions.
 
-✨ **My Current Mission:** Become a world-class Full-Stack Developer and contribute to meaningful open-source projects.
-💡 **What I Love:** Web Development, Algorithms, Clean UI/UX, and powerful backend logic.
+- 🎓 3rd Year CS Student at Debre Berhan University  
+- 💻 Full-Stack Developer (MERN Stack)  
+- 🚀 Currently sharpening: React, Node.js & Modern Web Architecture  
+- 🎯 Career goal: Become a top-tier software engineer
+</div>
+
+<div style="flex:1; min-width:300px;">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:10px;"/>
+</div>
+
+</div>
 
 ---
 
-# 🎨 **Aesthetic Welcome Card**
+## 🛠️ Technologies & Tools
 
-<div align="center">
-<div style="background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%); padding: 35px; border-radius: 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.25); width: 85%;">
+### **Programming Languages**
+<div style="display:flex; align-items:center; justify-content:space-between; max-width:400px; margin-bottom:10px;">
+<span>Python</span>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+<div style="display:flex; align-items:center; justify-content:space-between; max-width:400px; margin-bottom:10px;">
+<span>JavaScript</span>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
+<div style="display:flex; align-items:center; justify-content:space-between; max-width:400px; margin-bottom:10px;">
+<span>Java</span>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+</div>
+<div style="display:flex; align-items:center; justify-content:space-between; max-width:400px; margin-bottom:10px;">
+<span>C++</span>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</div>
 
-<h2 style="color: white; margin-bottom: 15px;">✨ Welcome to My Creative Space</h2>
-<p style="color: #f8f8f8; font-size: 16px; line-height: 1.5;">
-I create modern applications, love exploring algorithms, and enjoy turning complex problems into elegant solutions.
-Let's build the future — one line of code at a time!
+### **Web Development**
+<div style="display:flex; align-items:center; justify-content:space-between; max-width:400px; margin-bottom:10px;">
+<span>HTML5</span>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</div>
+<div style="display:flex; align-items:center; justify-content:space-between; max-width:400px; margin-bottom:10px;">
+<span>CSS3</span>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
+<div style="display:flex; align-items:center; justify-content:space-between; max-width:400px; margin-bottom:10px;">
+<span>React</span>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</div>
+<div style="display:flex; align-items:center; justify-content:space-between; max-width:400px; margin-bottom:10px;">
+<span>Node.js</span>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</div>
+<div style="display:flex; align-items:center; justify-content:space-between; max-width:400px; margin-bottom:10px;">
+<span>Express</span>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+</div>
+
+### **Databases & Tools**
+<div style="display:flex; align-items:center; justify-content:space-between; max-width:400px; margin-bottom:10px;">
+<span>MongoDB</span>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</div>
+<div style="display:flex; align-items:center; justify-content:space-between; max-width:400px; margin-bottom:10px;">
+<span>MySQL</span>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
+<div style="display:flex; align-items:center; justify-content:space-between; max-width:400px; margin-bottom:10px;">
+<span>Git</span>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+<div style="display:flex; align-items:center; justify-content:space-between; max-width:400px; margin-bottom:10px;">
+<span>VS Code</span>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=eyobbegashaw&show_icons=true&count_private=true&theme=highcontrast&hide_border=false&title_color=7C3AED&icon_color=FF0080&bg_color=000000" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyobbegashaw&layout=compact&theme=highcontrast&hide_border=false&title_color=7C3AED&icon_color=FF0080&bg_color=000000" height="160"/>
 </p>
 
-</div>
-</div>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eyobbegashaw&theme=highcontrast&hide_border=false&stroke=FF0080&background=000000&ring=7C3AED" height="160"/>
+</p>
 
 ---
 
-# 🧰 **Tech Arsenal**
+## 📫 Connect With Me
 
-### 💻 **Languages I Speak**
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge\&logo=python)
-![C++](https://img.shields.io/badge/C++-000?style=for-the-badge\&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge\&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge\&logo=javascript)
-
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
+<a href="mailto:eyobbegashaw075@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/eyob-begashaw">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/eyobbegashaw">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 </div>
-
-### 🌐 **Web Dev & Frameworks**
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-000?style=for-the-badge\&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge\&logo=express)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge\&logo=bootstrap)
-
-</div>
-
-### 🎨 **Frontend Magic**
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge\&logo=css3)
-
-</div>
-
-### ⚙️ **Tools I Rely On**
-
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge\&logo=git)
-![VS Code](https://img.shields.io/badge/VS%20Code-000?style=for-the-badge\&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge\&logo=figma)
-
-</div>
-
----
-
-# 📊 **GitHub Performance**
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eyobbegashaw&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyobbegashaw&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=eyobbegashaw&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🚀 **Activity Graph**
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eyobbegashaw\&theme=tokyo-night\&hide_border=true)
-
-</div>
-
----
-
-# 🕒 **Coding Activity (WakaTime)**
-
-```txt
-Python       ███████████████████░░░   58.2%
-JavaScript   ███████░░░░░░░░░░░░░░░   22.1%
-Java         ████░░░░░░░░░░░░░░░░░   12.8%
-C++          ██░░░░░░░░░░░░░░░░░░░   6.9%
-```
-
----
-
-# 🔗 **Connect With Me**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/eyob-begashaw/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)](https://github.com/eyobbegashaw)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail)](mailto:eyobbegashaw075@gmail.com)
-
-</div>
-
----
-
-# 💡 **Quote of the Day**
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=vertical\&theme=tokyonight)
-
-</div>
-
-⭐ *“Code is like humor — when you have to explain it, it’s bad.”*
-
----
-
-# 🧠 **Current Focus**
-
-<div align="center">
-
-🎯 *Mastering Full-Stack Development*
-🎯 *Building Real-World Projects*
-🎯 *Sharpening Problem-Solving Skills*
-
-<br>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350">
-
-</div>
-
----
-
-If you'd like, I can also:
-
-✅ Add animated icons
-✅ Add custom banners
-✅ Add a minimalist or neon style
-✅ Add project showcase section
-
-Just tell me! 🚀🔥

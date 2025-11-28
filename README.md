@@ -11,14 +11,14 @@
 <div style="display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap;">
 
 <div style="flex:1; min-width:300px; padding-right:20px;">
-### 🌟 About Me
+🌟 About Me
 Enthusiastic **Computer Science student** and **Full-Stack Developer** from Ethiopia,  
 dedicated to building clean, scalable, and creative digital solutions.
 
-- 🎓 3rd Year CS Student at Debre Berhan University  
-- 💻 Full-Stack Developer (MERN Stack)  
-- 🚀 Currently sharpening: React, Node.js & Modern Web Architecture  
-- 🎯 Career goal: Become a top-tier software engineer
+🎓 3rd Year CS Student at Debre Berhan University  
+💻 Full-Stack Developer (MERN Stack)  
+🚀 Currently sharpening: React, Node.js & Modern Web Architecture  
+🎯 Career goal: Become a top-tier software engineer
 </div>
 
 <div style="flex:1; min-width:300px;">
@@ -31,62 +31,27 @@ dedicated to building clean, scalable, and creative digital solutions.
 
 ## 🛠️ Technologies & Tools
 
-### **Programming Languages**
-<div style="display:flex; align-items:center; justify-content:space-between; max-width:400px; margin-bottom:10px;">
-<span>Python</span>
+<div style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center;">
+
+<!-- Programming Languages -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</div>
-<div style="display:flex; align-items:center; justify-content:space-between; max-width:400px; margin-bottom:10px;">
-<span>JavaScript</span>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</div>
-<div style="display:flex; align-items:center; justify-content:space-between; max-width:400px; margin-bottom:10px;">
-<span>Java</span>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-</div>
-<div style="display:flex; align-items:center; justify-content:space-between; max-width:400px; margin-bottom:10px;">
-<span>C++</span>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-</div>
 
-### **Web Development**
-<div style="display:flex; align-items:center; justify-content:space-between; max-width:400px; margin-bottom:10px;">
-<span>HTML5</span>
+<!-- Web Development -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</div>
-<div style="display:flex; align-items:center; justify-content:space-between; max-width:400px; margin-bottom:10px;">
-<span>CSS3</span>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</div>
-<div style="display:flex; align-items:center; justify-content:space-between; max-width:400px; margin-bottom:10px;">
-<span>React</span>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-</div>
-<div style="display:flex; align-items:center; justify-content:space-between; max-width:400px; margin-bottom:10px;">
-<span>Node.js</span>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-</div>
-<div style="display:flex; align-items:center; justify-content:space-between; max-width:400px; margin-bottom:10px;">
-<span>Express</span>
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-</div>
 
-### **Databases & Tools**
-<div style="display:flex; align-items:center; justify-content:space-between; max-width:400px; margin-bottom:10px;">
-<span>MongoDB</span>
+<!-- Databases & Tools -->
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</div>
-<div style="display:flex; align-items:center; justify-content:space-between; max-width:400px; margin-bottom:10px;">
-<span>MySQL</span>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
-<div style="display:flex; align-items:center; justify-content:space-between; max-width:400px; margin-bottom:10px;">
-<span>Git</span>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
-<div style="display:flex; align-items:center; justify-content:space-between; max-width:400px; margin-bottom:10px;">
-<span>VS Code</span>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
 </div>
 
 ---
@@ -106,7 +71,7 @@ dedicated to building clean, scalable, and creative digital solutions.
 
 ## 📫 Connect With Me
 
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
+<div style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center;">
 <a href="mailto:eyobbegashaw075@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>

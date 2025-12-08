@@ -12,11 +12,11 @@
 
 <div style="flex:1; min-width:300px; padding-right:20px;">
 🌟 About Me
-Enthusiastic **Computer Science student** and **Full-Stack Developer** from Ethiopia,  
+Enthusiastic **Computer Science student** and **Frontend Developer** from Ethiopia,  
 dedicated to building clean, scalable, and creative digital solutions.
 
 🎓 3rd Year CS Student at Debre Berhan University  
-💻 Full-Stack Developer (MERN Stack)  
+💻 Frontend Developer  
 🚀 Currently sharpening: React, Node.js & Modern Web Architecture  
 🎯 Career goal: Become a top-tier software engineer
 </div>

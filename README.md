@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Eyob%20Begashaw&fontSize=50&fontAlign=50&fontAlignY=40&animation=fadeIn)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Computer+Science+Student;Open+Source+Enthusiast;Problem+Solver" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Frontend+Developer;Computer+Science+Student;Open+Source+Enthusiast;Problem+Solver" alt="Typing Animation" />
 
 </div>
 

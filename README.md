@@ -25,7 +25,7 @@
 I'm a passionate **Full-Stack Developer** and **Computer Science student** from Ethiopia, dedicated to building scalable web applications and solving local challenges through digital innovation.
 
 - 🎓 **3rd Year CS Student** at Debre Berhan University
-- 💻 **Tech Stack:** Specialized in **PERN** (PostgreSQL, Express, React, Node.js)
+- 💻 **Tech Stack:** Specialized in **PERN** (PostgreSQL, Express, React, Node.js) and  **MERN** (Mongodb, Express, React, Node.js)
 - 🚀 **Current Focus:** Building AI-powered solutions for Ethiopian businesses
 - 🌱 **Learning:** Advanced React Patterns & Machine Learning
 - 💡 **Interests:** AI Integration, Amharic NLP, Fintech Solutions
@@ -184,7 +184,7 @@ I'm a passionate **Full-Stack Developer** and **Computer Science student** from 
 
 ### 🌟 **"Building the future, one commit at a time"**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
 </div>
 

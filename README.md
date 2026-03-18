@@ -132,21 +132,6 @@ I'm a passionate **Full-Stack Developer** and **Computer Science student** from 
 
 ---
 
-## 🏆 **Recent Achievements**
-
-<div align="center">
-
-| 🏅 **Achievement** | 📅 **Date** | 📌 **Description** |
-|:------------------:|:-----------:|:-------------------|
-| ⭐ **100+ Stars** | March 2026 | Reached 100 total stars across repositories |
-| 🚀 **Top Contributor** | February 2026 | Ranked #3 in Ethiopian Dev GitHub Contributions |
-| 💼 **First Fintech App** | January 2026 | Launched payment integration POC for local businesses |
-| 📚 **Open Source Mentor** | December 2025 | Guided 5 new contributors to first PR |
-
-</div>
-
----
-
 ## 🚀 **Featured Projects**
 
 <div align="center">

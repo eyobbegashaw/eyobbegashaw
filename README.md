@@ -81,7 +81,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=eyobbegashaw&bg_color=0D1117&color=7C3AED&line=9D4EFF&point=FFFFFF&area=true&hide_border=true"/>
 
 ---
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80%" />
 🌐 Connect With Me
 <div align="center"> <a href="mailto:eyobbegashaw075@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> <a href="https://linkedin.com/in/eyob-begashaw"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="https://github.com/eyobbegashaw"> <img src="https://skillicons.dev/icons?i=github" /> </a> <a href="https://twitter.com/eyobbegashaw"> <img src="https://skillicons.dev/icons?i=twitter" /> </a> </div>
 <div align="center">

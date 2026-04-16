@@ -63,12 +63,27 @@
 
 </div>
 ---
-
-# 🧩 3D Projects Preview (GSAP Style Feel)
+ 
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="100%" style="border-radius:20px;"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=eyobbegashaw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=9D4EFF"/>
+
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=eyobbegashaw&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=9D4EFF"/>
 
 </div>
- 
+
+---
+
+# 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eyobbegashaw&bg_color=0D1117&color=7C3AED&line=9D4EFF&point=FFFFFF&area=true&hide_border=true"/>
+
+---
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
+🌐 Connect With Me
+<div align="center"> <a href="mailto:eyobbegashaw075@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> <a href="https://linkedin.com/in/eyob-begashaw"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="https://github.com/eyobbegashaw"> <img src="https://skillicons.dev/icons?i=github" /> </a> <a href="https://twitter.com/eyobbegashaw"> <img src="https://skillicons.dev/icons?i=twitter" /> </a> </div>
+<div align="center">
+✨ "Building scalable solutions, one commit at a time."
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,100:3A0CA3"/> </div>

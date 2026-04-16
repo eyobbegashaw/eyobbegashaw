@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Eyob%20Begashaw&fontAlign=50&fontAlignY=35&color=0:078930,50:FCDD09,100:DA121A&fontColor=ffffff&animation=fadeIn&desc=Ethiopian%20Full-Stack%20Developer%20🇪🇹%20|%20AI%20Builder&descAlignY=55"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=FCDD09&center=true&vCenter=true&width=700&lines=Building+Ethiopia's+Digital+Future;Full-Stack+%7C+AI+Developer;PERN+%2F+MERN+Specialist;Amharic+NLP+Explorer;Scalable+Systems+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=FCDD09&center=true&vCenter=true&width=700&lines=Building+Ethiopia%27s+Digital+Future;Full-Stack+%7C+AI+Developer;PERN+%2F+MERN+Specialist;Amharic+NLP+Explorer;Scalable+Systems+Engineer"/>
 
 <br/>
 
@@ -30,47 +30,38 @@
 - 🎯 Goal: Launch impactful **open-source projects for Ethiopia (2026)**  
 
 ---
+
 # ⚡ Tech Stack
 
 ## 🧠 Languages
-<div style="display:flex">
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
-![C++](https://skillicons.dev/icons?i=cpp)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" />
+</p>
 
 ## 🎨 Frontend
-![React](https://skillicons.dev/icons?i=react)
-![Next](https://skillicons.dev/icons?i=nextjs)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
+</p>
 
 ## ⚙️ Backend & Database
-![Node](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![Postgres](https://skillicons.dev/icons?i=postgres)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Prisma](https://skillicons.dev/icons?i=prisma)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma" />
+</p>
 
 ## 🛠️ Tools
-![Git](https://skillicons.dev/icons?i=git)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Vercel](https://skillicons.dev/icons?i=vercel)
-![VSCode](https://skillicons.dev/icons?i=vscode)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,vercel,vscode" />
+</p>
 
-</div>
 ---
- 
+
 # 📊 GitHub Stats
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=eyobbegashaw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=9D4EFF"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=eyobbegashaw&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=078930&icon_color=FCDD09"/>
 
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=eyobbegashaw&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=9D4EFF"/>
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=eyobbegashaw&theme=tokyonight&hide_border=true&background=0D1117&ring=DA121A&fire=FCDD09"/>
 
 </div>
 
@@ -78,12 +69,43 @@
 
 # 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eyobbegashaw&bg_color=0D1117&color=7C3AED&line=9D4EFF&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eyobbegashaw&bg_color=0D1117&color=078930&line=FCDD09&point=DA121A&area=true&hide_border=true"/>
 
 ---
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" height="40%" />
-🌐 Connect With Me
-<div align="center"> <a href="mailto:eyobbegashaw075@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> <a href="https://linkedin.com/in/eyob-begashaw"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="https://github.com/eyobbegashaw"> <img src="https://skillicons.dev/icons?i=github" /> </a> <a href="https://twitter.com/eyobbegashaw"> <img src="https://skillicons.dev/icons?i=twitter" /> </a> </div>
+
 <div align="center">
-✨ "Building scalable solutions, one commit at a time."
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,100:3A0CA3"/> </div>
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:eyobbegashaw075@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://linkedin.com/in/eyob-begashaw">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://github.com/eyobbegashaw">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+<a href="https://twitter.com/eyobbegashaw">
+  <img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ "Building scalable solutions, one commit at a time."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:078930,50:FCDD09,100:DA121A"/>
+
+</div>

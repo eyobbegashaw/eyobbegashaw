@@ -30,27 +30,10 @@
 - 🎯 Goal: Launch impactful **open-source projects for Ethiopia (2026)**  
 
 ---
-
-# 🌍 Vision: Building for Ethiopia
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%" />
-
-</div>
-
-### 💡 Mission
-
-- 🚀 Digitizing Ethiopian businesses  
-- 🧠 Building AI systems for local languages (Amharic NLP)  
-- 💳 Innovating in **Fintech & digital services**  
-- 🌐 Creating scalable platforms for African growth  
-
----
-
 # ⚡ Tech Stack
 
 ## 🧠 Languages
+<div style="display:flex">
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![Python](https://skillicons.dev/icons?i=python)
@@ -78,6 +61,7 @@
 ![Vercel](https://skillicons.dev/icons?i=vercel)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
 
+</div>
 ---
 
 # 🧩 3D Projects Preview (GSAP Style Feel)

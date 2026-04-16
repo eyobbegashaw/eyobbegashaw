@@ -81,10 +81,8 @@ I’m a **Full-Stack Developer** and **Computer Science student** focused on bui
 
 ---
 
-# 🚀 Current Focus
-
-```bash
-> Building AI-powered tools for Ethiopian businesses
-> Learning Advanced React Patterns & System Design
-> Exploring Machine Learning & NLP
-> Creating scalable backend architectures
+🌐 Connect With Me
+<div align="center"> <a href="mailto:eyobbegashaw075@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> <a href="https://linkedin.com/in/eyob-begashaw"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="https://github.com/eyobbegashaw"> <img src="https://skillicons.dev/icons?i=github" /> </a> <a href="https://twitter.com/eyobbegashaw"> <img src="https://skillicons.dev/icons?i=twitter" /> </a> </div>
+<div align="center">
+✨ "Building scalable solutions, one commit at a time."
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,100:3A0CA3"/> </div>

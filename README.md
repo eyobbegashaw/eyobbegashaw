@@ -71,8 +71,4 @@
 <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="100%" style="border-radius:20px;"/>
 
 </div>
-
-```diff
-+ 3D Perspective UI
-+ Smooth Animation Experience
-+ Modern Interactive Design
+ 

@@ -112,37 +112,7 @@ I'm a passionate **Full-Stack Developer** and **Computer Science student** from 
 ### 📅 **Contribution Graph**
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=eyobbegashaw&custom_title=Eyob's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7C3AED&line=9D4EFF&point=FF79C6&area=true&hide_border=true" width="100%" />
-
----
-
-## 📊 **GitHub Analytics**
-
-<div align="center">
-
-<!-- GitHub Stats Cards -->
-<img src="https://github-readme-stats.vercel.app/api?username=eyobbegashaw&show_icons=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9D4EFF&icon_color=FF79C6" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyobbegashaw&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9D4EFF" height="170" />
-<br />
-<img src="https://streak-stats.demolab.com?user=eyobbegashaw&theme=midnight-purple&hide_border=true&background=0D1117&stroke=9D4EFF&ring=9D4EFF&fire=FF79C6&currStreakNum=FFFFFF&sideNums=FFFFFF" width="100%" />
-
-<!-- Contribution Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=eyobbegashaw&theme=discord&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" width="100%" />
-
-</div>
-
----
-
-## 🚀 **Featured Projects**
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eyobbegashaw&repo=project1&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9D4EFF)](https://github.com/eyobbegashaw/project1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eyobbegashaw&repo=project2&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9D4EFF)](https://github.com/eyobbegashaw/project2)
-
-</div>
-
----
-
+ 
 ## 📫 **Let's Connect**
 
 <div align="center">
@@ -168,10 +138,3 @@ I'm a passionate **Full-Stack Developer** and **Computer Science student** from 
 <br/>
 
 ### 🌟 **"Building the future, one commit at a time"**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
-
-</div>
-
-<!-- Hidden Comment for Tracking -->
-<!-- Last Updated: March 2026 -->

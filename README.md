@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🇪🇹 Ethiopia-Themed Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Eyob%20Begashaw&fontAlign=50&fontAlignY=35&color=0:078930,50:FCDD09,100:DA121A&fontColor=ffffff&animation=fadeIn&desc=Ethiopian%20Full-Stack%20Developer%20🇪🇹%20|%20AI%20Builder&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Eyob%20Begashaw&fontAlign=50&fontAlignY=35&color=0:078930,50:FCDD09,100:DA121A&fontColor=ffffff&animation=fadeIn&desc=Ethiopian%20Full-Stack%20Developer%20🇪🇹%20|%20%20&descAlignY=55"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=FCDD09&center=true&vCenter=true&width=700&lines=Building+Ethiopia%27s+Digital+Future;Full-Stack+%7C+AI+Developer;PERN+%2F+MERN+Specialist;Amharic+NLP+Explorer;Scalable+Systems+Engineer"/>
